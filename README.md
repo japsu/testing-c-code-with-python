@@ -9,3 +9,8 @@
 # Running tests
 
     behave
+
+# Viewing the coverage report
+
+    gcov libfoo.c
+    cat libfoo.c.gcov

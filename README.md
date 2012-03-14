@@ -8,7 +8,7 @@
 
 # Running tests
 
-    behave
+    python -m unittest tests.test_libfoo
 
 # Viewing the coverage report
 

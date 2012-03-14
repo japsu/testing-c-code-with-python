@@ -8,9 +8,7 @@
 
 # Some doctests
 
-Run these with
-
-    python -m doctest README.md
+Here's some doctests:
 
     >>> from libfoo import foo
     >>> foo(1)
@@ -19,6 +17,11 @@ Run these with
     6
     >>> foo(65535)
     65536
+
+Run these with
+
+    python -m doctest README.md
+
 
 # Viewing the coverage report
 
